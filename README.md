@@ -4,6 +4,8 @@
 #### ( better get yourself a :coffee: )
 #### I started this github (my first ever) as part of CodeClan 16 weeks Professional Software Development course to store my homeworks, experiments and big and small projects. You will find here examples of Ruby code, TDD, OOP, Sinatra in use (Book_Collection app), routing, CRUD functionality, lots of JavaScript in my loved Vue, experiments with libraries and API
 
+:octocat:
+
 <!--
 **KatKmiotek/KatKmiotek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
